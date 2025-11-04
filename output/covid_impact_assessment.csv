@@ -1,0 +1,8 @@
+Country,COVID_Impact_Index,GDP_Impact,Poverty_Impact,Health_Spending_Impact
+US,0.107,-0.54,0.86,0.32
+India,0.046,-0.23,0.37,0.14
+Brazil,0.038,-0.19,0.31,0.12
+Germany,0.04,-0.2,0.32,0.12
+Japan,0.034,-0.17,0.28,0.1
+UK,1.0,-5.0,8.0,3.0
+France,0.041,-0.21,0.33,0.12
