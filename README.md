@@ -22,3 +22,4 @@ Collection of data analysis projects demonstrating skills in Python, SQL, and st
 - Statistical Analysis
 - Git Version Control
 >>>>>>> d18778b84620a9f43ad3891b28fa472a14a8eb5c
+
